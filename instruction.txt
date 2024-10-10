@@ -1,0 +1,3 @@
+En premier commente chaque ligne de code parce que je suis professeur et que ce code sera pour expliquer à mes étudiants comment les choses fonctionnent.
+
+et ensuite ajoute un readme pour que quand les étuddiants arrive sur le github il sache à quoi sert le code, explique ensuite comment récupérer le code depuis github et comment l'installer localement
